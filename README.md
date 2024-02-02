@@ -1,4 +1,4 @@
-# Analyised-eccomerce-sales-data
+# Analyised-eccomerce-sales-data-using-Power-bi
 Creative interactive dashboard to track and analyize online sales data.
 Used complex parameters to drill down in worksheet and customization using filters and slicers.
 Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualization.
